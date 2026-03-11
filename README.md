@@ -1,2 +1,3 @@
-# adbulamad-m
-asasds
+# Öncelikle Selamlar
+## Bu proje ne ise yarıyor?
+-
